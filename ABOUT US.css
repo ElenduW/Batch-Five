@@ -1,0 +1,79 @@
+*{
+	margin: 0;
+	padding:0;
+	font-family: Tahoma;
+}
+
+.header{
+	background-color: yellow;
+	text-align:justify;
+	text-decoration: none;
+
+}
+.fell_1{
+	padding: 10px
+}
+.fell_1 a{
+	color:black;
+	text-decoration:none;
+}
+
+.fell_2{
+	font-size: 30px;
+}
+
+
+.meet{
+	padding: 40px;
+	text-align: center;
+	font-size: 20px
+}
+
+
+
+.meet_1{
+	padding-right: 30px;
+	color: grey;
+	text-decoration: none;
+}
+.meet_1:hover{
+	color:black;
+	font-weight: bold;
+}
+.meet_2{
+	padding-right: 30px;
+		color: grey;
+		text-decoration: none;
+}
+.meet_2:hover{
+	color:black;
+	font-weight: bold;
+}
+.meet_3{
+	padding-right: 30px;
+		color: grey;
+		text-decoration: none;
+}
+.meet_3:hover{
+	color:black;
+	font-weight: bold;
+}
+.meet_4{
+	padding-right: 30px;
+		color: grey;
+		text-decoration: none;
+	}
+	.meet_4:hover{
+	color:black;
+	font-weight: bold;
+}
+
+
+.mee{
+	padding-left: 40px;
+}
+
+.feel_3{
+	padding-left: 80px;
+	text-indent: 10px;
+}
