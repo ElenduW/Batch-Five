@@ -1,0 +1,56 @@
+*{
+	margin: 0;
+	padding:0;
+	font-family: Tahoma;
+}
+.header{
+	background-color: yellow;
+	text-align:justify;
+	text-decoration: none;
+	margin-bottom: 20px
+
+}
+.wee{
+	padding: 10px
+}
+.wee a{
+	color:black;
+	text-decoration:none;
+}
+.wet{
+	padding-bottom: 20px;
+}
+.fitt{
+	float: right;
+	text-decoration: none;
+	padding-right: 40px;
+	padding-top: 20px;
+}
+.fitt a:hover{
+	color: red;
+}
+form{
+	width: 500px;
+	background-color: silver;
+	padding: 80px;
+	border:2px solid yellow;
+	margin: 50px auto;
+	font-size: 30px;	
+}
+
+input[type='text'], input[type='password']{
+	width: 200px;
+	height: 20px;
+	border: 2px solid yellow;
+
+}
+input[type='submit']{
+	width: 100px;
+	height: 30px;
+	background-color: black;
+	color: yellow;
+	border:none;
+}
+input[type='submit']:hover{
+	color: white;
+}

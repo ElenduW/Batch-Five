@@ -1,0 +1,118 @@
+*{
+	margin: 0;
+	padding:0;
+	font-family: Tahoma;
+}
+
+
+.header{
+	background-color: yellow;
+	text-align:justify;
+	text-decoration: none;
+	margin-bottom: 20px
+
+}
+.date{
+	padding: 10px
+}
+.date a{
+	color:black;
+	text-decoration:none;
+}
+.wey{
+	padding: 10px;
+	text-align: center;
+	font-size: 30px
+}
+.fro{
+	text-align: center;
+}
+.juu{
+	padding-left: 20px;
+}
+.coli{
+	float: left;
+	width:33.33%;
+}
+.coli img{
+	width: 100%;
+	height: auto;	
+}
+.jog{
+	text-align: center;
+	padding-top: 20px;
+}
+.jog:after{
+	display: table;
+	clear: both;
+}
+
+
+
+.juu{
+	padding-left: 20px;
+}
+
+.colu{
+	float: left;
+	width:33.33%;
+}
+.colu img{
+	width: 100%;
+	height: auto;	
+}
+.ree{
+	text-align: center;
+	padding-top: 20px;
+}
+.ree:after{
+	display: table;
+	clear: both;
+}
+.poo{
+	margin: 45px;
+	padding-top: 10px; 
+}
+.tii{
+	color: red;
+}
+.po{
+	margin: 45px;
+	padding:10px;
+}
+
+.ju{
+	padding-left: 20px;
+	padding-top: 10px;
+}
+
+.jup{
+	padding-left: 20px;
+	padding-top: 10px;
+}
+
+.coll{
+	float: left;
+	width:33.33%;
+}
+.coll img{
+	width: 100%;
+	height: auto;	
+}
+.gee{
+	text-align: center;
+	padding-top: 20px;
+}
+.gee:after{
+	display: table;
+	clear: both;
+}
+
+.put{
+	margin: 45px;
+	padding:20px;
+}
+
+.tut{
+	color: red;
+}

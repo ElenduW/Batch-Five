@@ -1,0 +1,53 @@
+*{
+	margin: 0;
+	padding:0;
+	font-family: Tahoma;
+}
+.header{
+	background-color: yellow;
+	text-align:justify;
+	text-decoration: none;
+	margin-bottom: 20px
+
+}
+.wea{
+	padding: 10px
+}
+.wea a{
+	color:black;
+	text-decoration:none;
+}
+form{
+	width:500px;
+background-color: silver;
+padding: 20px;
+margin: 0 auto;
+border: 2px solid yellow;
+}
+
+
+input[type='text'], input[type='password'], select{
+	width: 370px;
+	height: 30px;
+	border: 1px solid yellow;
+	margin-top: 15px
+}
+input[type='submit']{
+	width: 100px;
+	height: 30px;
+	background-color: black;
+	color: yellow;
+	border:none;
+}
+input[type='submit']:hover{
+	color: white;
+}
+.wet{
+		font-size: 30px;
+		padding-bottom: 20px;
+}
+
+textarea {
+	resize: none;
+	border:1px solid yellow;
+}
